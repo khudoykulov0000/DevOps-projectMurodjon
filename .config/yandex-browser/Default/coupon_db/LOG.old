@@ -1,0 +1,4 @@
+2024/10/28-11:41:56.541 2c81 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/coupon_db is locked for recovering successfully
+2024/10/28-11:41:56.541 2c81 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/coupon_db, waiting for background work finished
+2024/10/28-11:41:56.541 2c81 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/coupon_db, background work finished
+2024/10/28-11:41:56.542 2c81 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/coupon_db unlocked successfully

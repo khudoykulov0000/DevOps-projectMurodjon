@@ -1,0 +1,8 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+captureMode=5
+
+[Save]
+lastSaveLocation=file:///home/khudoykulovmurodjon/Изображения/Screenshot_20241111_112346.png

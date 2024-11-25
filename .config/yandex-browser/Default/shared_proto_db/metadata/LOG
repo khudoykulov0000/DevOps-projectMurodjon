@@ -1,0 +1,14 @@
+2024/11/11-10:28:25.217 153b File /home/khudoykulovmurodjon/.config/yandex-browser/Default/shared_proto_db/metadata is locked for recovering successfully
+2024/11/11-10:28:25.225 153b Recovering log #12
+2024/11/11-10:28:25.225 153b Level-0 table #14: started
+2024/11/11-10:28:25.228 153b Level-0 table #14: 124 bytes OK
+2024/11/11-10:28:25.257 153b Delete type=3 #10
+2024/11/11-10:28:25.257 153b Delete type=0 #12
+2024/11/11-10:28:25.261 153a Compacting 4@0 + 0@1 files
+2024/11/11-10:28:25.283 153a Generated table #16@0: 10 keys, 217 bytes
+2024/11/11-10:28:25.283 153a Compacted 4@0 + 0@1 files => 217 bytes
+2024/11/11-10:28:25.290 153a compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/11-10:28:25.291 153a Delete type=2 #11
+2024/11/11-10:28:25.294 153a Delete type=2 #14
+2024/11/11-10:28:25.294 153a Delete type=2 #8
+2024/11/11-10:28:25.294 153a Delete type=2 #5

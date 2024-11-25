@@ -1,0 +1,6 @@
+2024/10/14-08:57:39.696 8d4 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Scripts is locked for recovering successfully
+2024/10/14-08:57:39.706 8d4 Creating DB /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Scripts since it was missing.
+2024/10/14-08:57:39.769 8d4 Delete type=3 #1
+2024/10/14-08:57:57.346 8e3 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Scripts, waiting for background work finished
+2024/10/14-08:57:57.347 8e3 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Scripts, background work finished
+2024/10/14-08:57:57.347 8e3 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Scripts unlocked successfully

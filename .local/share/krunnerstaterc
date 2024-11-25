@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 krunner_systemsettings_smb,1 exec:///usr/bin/hardware-probe
+
+[PlasmaRunnerManager][History]
+171a4481-8ba2-4bf6-82d0-9dde3fb78b20=обо,об,общ

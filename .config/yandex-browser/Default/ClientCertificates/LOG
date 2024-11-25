@@ -1,0 +1,4 @@
+2024/11/11-10:28:23.617 1539 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/ClientCertificates is locked for recovering successfully
+2024/11/11-10:28:23.620 1539 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/ClientCertificates, waiting for background work finished
+2024/11/11-10:28:23.622 1539 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/ClientCertificates, background work finished
+2024/11/11-10:28:23.622 1539 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/ClientCertificates unlocked successfully

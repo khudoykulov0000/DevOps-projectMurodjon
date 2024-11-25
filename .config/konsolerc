@@ -1,0 +1,24 @@
+[General]
+ConfigVersion=1
+
+[MainWindow]
+1600x795 screen: Height=553
+1600x795 screen: Width=911
+1600x795 screen: XPosition=344
+1600x795 screen: YPosition=113
+1600x860 screen: Height=611
+1600x860 screen: Width=1233
+1600x860 screen: Window-Maximized=true
+1600x860 screen: XPosition=300
+1600x860 screen: YPosition=74
+1600x900 screen: Height=828
+1600x900 screen: Width=1600
+1600x900 screen: XPosition=0
+1600x900 screen: YPosition=28
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAXkBAAAD+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABEQEAAAMAAAZAAAACyQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAASP/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+VGA-1=VGA-1
+
+[UiSettings]
+ColorScheme=

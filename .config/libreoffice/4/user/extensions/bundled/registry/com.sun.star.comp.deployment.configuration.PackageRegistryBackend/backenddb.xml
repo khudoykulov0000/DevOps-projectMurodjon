@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<conf:configuration-backend-db xmlns:conf="http://openoffice.org/extensionmanager/configuration-registry/2010"><conf:configuration url="vnd.sun.star.expand:$BUNDLED_EXTENSIONS/pagination-1.3.10.oxt/Addon.xcu"><conf:ini-entry>$BUNDLED_EXTENSIONS/pagination-1.3.10.oxt/Addon.xcu</conf:ini-entry></conf:configuration></conf:configuration-backend-db>

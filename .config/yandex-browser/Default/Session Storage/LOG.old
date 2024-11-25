@@ -1,0 +1,9 @@
+2024/10/28-12:09:31.584 4 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/Session Storage is locked for recovering successfully
+2024/10/28-12:09:31.601 4 Recovering log #6
+2024/10/28-12:09:31.601 4 Level-0 table #8: started
+2024/10/28-12:09:31.609 4 Level-0 table #8: 218 bytes OK
+2024/10/28-12:09:31.646 4 Delete type=0 #6
+2024/10/28-12:09:31.646 4 Delete type=3 #4
+2024/10/28-12:09:54.821 5 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/Session Storage, waiting for background work finished
+2024/10/28-12:09:54.822 5 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/Session Storage, background work finished
+2024/10/28-12:09:54.838 5 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/Session Storage unlocked successfully

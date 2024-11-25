@@ -1,0 +1,45 @@
+
+2024-10-14 05:57:50.279 [0] InitSessionLog done
+2024-10-14 05:57:50.279 [0] ReadLastSessionCommands
+2024-10-14 05:57:50.279 [0]   LegacySessionState
+2024-10-14 05:57:50.279 [1]   Init
+2024-10-14 05:57:50.279 [0]   Init done
+2024-10-14 05:57:50.279 [0]   ReadCommandsFromFile
+2024-10-14 05:57:50.279 [0]   Session file not found
+2024-10-14 05:57:50.279 [-4]   ! Read error
+2024-10-14 05:57:50.279 [1]   ReadCommandsFromFile done: -1 (0/no mraker)
+2024-10-14 05:57:50.279 [0] ReadLastSessionCommands done
+2024-10-14 05:57:57.551 [0] CommandStorageBackend done
+2024-10-28 08:41:53.793 [0] InitSessionLog done
+2024-10-28 08:41:53.796 [0] ReadLastSessionCommands
+2024-10-28 08:41:53.796 [0]   LegacySessionState
+2024-10-28 08:41:53.796 [1]   Init
+2024-10-28 08:41:53.796 [0]   Init done
+2024-10-28 08:41:53.796 [0]   ReadCommandsFromFile
+2024-10-28 08:41:53.796 [0]   Session file not found
+2024-10-28 08:41:53.796 [-4]   ! Read error
+2024-10-28 08:41:53.796 [1]   ReadCommandsFromFile done: -1 (0/no mraker)
+2024-10-28 08:41:53.796 [0] ReadLastSessionCommands done
+2024-10-28 08:42:02.154 [0] CommandStorageBackend done
+2024-10-28 09:09:29.816 [0] InitSessionLog done
+2024-10-28 09:09:29.816 [0] ReadLastSessionCommands
+2024-10-28 09:09:29.816 [0]   LegacySessionState
+2024-10-28 09:09:29.816 [1]   Init
+2024-10-28 09:09:29.816 [0]   Init done
+2024-10-28 09:09:29.816 [0]   ReadCommandsFromFile
+2024-10-28 09:09:29.816 [0]   Session file not found
+2024-10-28 09:09:29.816 [-4]   ! Read error
+2024-10-28 09:09:29.816 [1]   ReadCommandsFromFile done: -1 (0/no mraker)
+2024-10-28 09:09:29.816 [0] ReadLastSessionCommands done
+2024-10-28 09:09:54.791 [0] CommandStorageBackend done
+2024-10-28 09:13:04.308 [0] InitSessionLog done
+2024-10-28 09:13:04.318 [0] ReadLastSessionCommands
+2024-10-28 09:13:04.318 [0]   LegacySessionState
+2024-10-28 09:13:04.318 [1]   Init
+2024-10-28 09:13:04.318 [0]   Init done
+2024-10-28 09:13:04.318 [0]   ReadCommandsFromFile
+2024-10-28 09:13:04.318 [0]   Session file not found
+2024-10-28 09:13:04.318 [-4]   ! Read error
+2024-10-28 09:13:04.318 [1]   ReadCommandsFromFile done: -1 (0/no mraker)
+2024-10-28 09:13:04.318 [0] ReadLastSessionCommands done
+2024-11-11 07:28:01.397 [0] CommandStorageBackend done

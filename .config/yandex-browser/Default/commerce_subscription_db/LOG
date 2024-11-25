@@ -1,0 +1,4 @@
+2024/11/11-10:28:23.978 154c File /home/khudoykulovmurodjon/.config/yandex-browser/Default/commerce_subscription_db is locked for recovering successfully
+2024/11/11-10:28:23.979 154c Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/commerce_subscription_db, waiting for background work finished
+2024/11/11-10:28:23.985 154c Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/commerce_subscription_db, background work finished
+2024/11/11-10:28:23.985 154c File /home/khudoykulovmurodjon/.config/yandex-browser/Default/commerce_subscription_db unlocked successfully

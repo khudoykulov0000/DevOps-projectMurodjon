@@ -1,0 +1,15 @@
+ProxyUrlDisplayFlags=0
+
+[Browser Settings/SMBro]
+Password=0HA0H90H@0GC0GJ0GH0GC0GD0F@0F>0F>0F?
+User=KhudoykulovMurodjon
+
+[Proxy Settings]
+NoProxyFor=
+Proxy Config Script=
+ProxyType=3
+ReversedException=false
+ftpProxy=
+httpProxy=
+httpsProxy=
+socksProxy=

@@ -1,0 +1,4 @@
+2024/10/28-12:09:59.563 870 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/parcel_tracking_db is locked for recovering successfully
+2024/10/28-12:09:59.563 870 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/parcel_tracking_db, waiting for background work finished
+2024/10/28-12:09:59.563 870 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/parcel_tracking_db, background work finished
+2024/10/28-12:09:59.565 870 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/parcel_tracking_db unlocked successfully

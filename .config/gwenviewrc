@@ -1,0 +1,20 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+1600x860 screen: XPosition=480
+1600x860 screen: YPosition=182
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+VGA-1=VGA-1
+
+[Recent Files]
+File1[$e]=$HOME/Изображения/Screenshot_20241111_112346.png
+Name1[$e]=Screenshot_20241111_112346.png
+
+[SideBar]
+InformationSplitterSizes=0,0

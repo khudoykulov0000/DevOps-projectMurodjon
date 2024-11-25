@@ -1,0 +1,21 @@
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[MainWindow]
+1600x795 screen: Height=676
+1600x795 screen: Width=1020
+1600x795 screen: XPosition=290
+1600x795 screen: YPosition=75
+1600x860 screen: Height=700
+1600x860 screen: Width=1020
+1600x860 screen: XPosition=168
+1600x860 screen: YPosition=80
+1600x900 screen: Height=700
+1600x900 screen: Width=1020
+1600x900 screen: Window-Maximized=true
+1600x900 screen: XPosition=290
+1600x900 screen: YPosition=92
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+VGA-1=VGA-1

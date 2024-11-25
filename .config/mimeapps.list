@@ -1,0 +1,9 @@
+[Added Associations]
+x-scheme-handler/http=yandex-browser.desktop
+x-scheme-handler/https=yandex-browser.desktop
+text/html=yandex-browser.desktop
+
+[Default Applications]
+x-scheme-handler/http=yandex-browser.desktop
+x-scheme-handler/https=yandex-browser.desktop
+text/html=yandex-browser.desktop

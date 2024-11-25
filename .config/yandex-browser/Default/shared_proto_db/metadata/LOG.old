@@ -1,0 +1,9 @@
+2024/10/28-12:10:00.210 834 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/shared_proto_db/metadata is locked for recovering successfully
+2024/10/28-12:10:00.237 834 Recovering log #9
+2024/10/28-12:10:00.238 834 Level-0 table #11: started
+2024/10/28-12:10:00.246 834 Level-0 table #11: 167 bytes OK
+2024/10/28-12:10:00.263 834 Delete type=3 #7
+2024/10/28-12:10:00.263 834 Delete type=0 #9
+2024/11/11-10:28:01.431 843 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/shared_proto_db/metadata, waiting for background work finished
+2024/11/11-10:28:01.452 843 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/shared_proto_db/metadata, background work finished
+2024/11/11-10:28:01.453 843 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/shared_proto_db/metadata unlocked successfully

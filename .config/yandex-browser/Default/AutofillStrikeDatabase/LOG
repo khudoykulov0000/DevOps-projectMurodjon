@@ -1,0 +1,4 @@
+2024/11/11-10:31:35.240 1549 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/AutofillStrikeDatabase is locked for recovering successfully
+2024/11/11-10:31:41.479 1549 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/AutofillStrikeDatabase, waiting for background work finished
+2024/11/11-10:31:44.538 1549 Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/AutofillStrikeDatabase, background work finished
+2024/11/11-10:31:44.739 1549 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/AutofillStrikeDatabase unlocked successfully

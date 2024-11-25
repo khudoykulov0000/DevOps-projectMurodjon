@@ -1,0 +1,6 @@
+2024/10/14-08:57:39.659 8d4 File /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Rules is locked for recovering successfully
+2024/10/14-08:57:39.659 8d4 Creating DB /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Rules since it was missing.
+2024/10/14-08:57:39.696 8d4 Delete type=3 #1
+2024/10/14-08:57:57.352 90b Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Rules, waiting for background work finished
+2024/10/14-08:57:57.352 90b Deletion DBImpl for /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Rules, background work finished
+2024/10/14-08:57:57.352 90b File /home/khudoykulovmurodjon/.config/yandex-browser/Default/Extension Rules unlocked successfully

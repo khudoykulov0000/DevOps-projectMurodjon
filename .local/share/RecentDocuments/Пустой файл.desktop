@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-zerosize
+Name=Пустой файл
+Type=Link
+URL[$e]=file:$HOME/Рабочий стол/Пустой файл
+X-KDE-LastOpenedWith=libreoffice-writer
